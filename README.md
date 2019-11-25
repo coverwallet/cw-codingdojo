@@ -1,1 +1,2 @@
 # cw-codingdojo
+This repository, for different technologies, provides the skeletons for setting up the minimum necessary environments for running and testing code. For each available language there is a folder containing the necessary files and a README with instructions.
