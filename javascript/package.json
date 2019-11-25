@@ -1,0 +1,18 @@
+{
+  "name": "kata",
+  "version": "1.0.0",
+  "description": "Repo for practising",
+  "private": true,
+  "repository": "git@github.com:coverwallet/cw-codingdjo",
+  "author": "CoverWallet",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/register": "^7.7.4",
+    "jest": "24.9.0"
+  }
+}

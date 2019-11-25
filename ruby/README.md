@@ -9,7 +9,7 @@ This repository require ruby version 2.5.1, for that we recommend you to use rvm
 ```
 When process is done you need to restart your terminal.
 
-#### 1.2. Install and use ruby version 2.5.1
+#### 1.2. Install and use ruby version 2.6.3
 ```
 rvm install 2.6.3
 rvm use 2.6.3
